@@ -1,0 +1,72 @@
+.container{
+              margin: 180px auto;
+              width: 300px;
+              padding: 20px;
+              border: 10px solid white;
+              border-radius: 8px;
+              border: none;
+              background-color: white;
+}
+*{
+              box-sizing: border-box;
+}
+.font{
+              font-family: sans-serif;
+}
+#img{
+             margin-left: 10%;
+             width: 80%;
+             align-items: center;
+}
+#email{
+              width: 100%;
+              padding: 10px 12px;
+              border-radius: 5px;
+              border: 1px solid #6B7280;
+              font-size: 12px;
+}
+#pass{
+              width: 100%;
+              padding: 10px 12px;
+              border-radius: 5px;
+              border: 1px solid #6B7280;
+              margin-top: 9px;
+              margin-bottom: 18px;
+              font-size: 12px;
+}
+#login{
+              background-color: black;
+              color: white;
+              padding: 10px 12px;
+              width: 80%;
+              border-radius: 30px;
+              border: none;
+              margin-left: 10%;
+
+}
+#welcome{
+              text-align: center;
+              font-size: 14px;
+              
+}
+#member{
+              color: #6B7280;
+              font-size: 13px;
+              text-align: center;
+}
+#forgot{
+              text-align: center;
+              margin-left: 26%;
+              font-size: 12px;
+              margin-top: 2px;
+              color: black;
+}
+#end{
+              font-size: 12px;
+}
+.one{
+              color: black;
+}
+#login:hover{
+              cursor: pointer;
+}
